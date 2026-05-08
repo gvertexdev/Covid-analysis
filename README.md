@@ -23,11 +23,9 @@ Exploratory Data Analysis (EDA)
 Trend visualization using charts and graphs
 Comparative analysis of COVID-19 statistics
 
-Project Files
+Project File
 
 covid_analysis.ipynb → Main notebook containing analysis
-
-dataset.csv → Dataset used for analysis
 
 Output
 
