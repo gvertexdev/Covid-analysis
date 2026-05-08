@@ -24,7 +24,7 @@ This project analyzes COVID-19 datasets to study trends in confirmed cases, reco
 
 ## Files Included
 - `covid_analysis.ipynb` → Main analysis notebook
-- `dataset.csv` → Dataset used for analysis (if applicable)
+- `dataset.csv` → Dataset used for analysis
 
 ## Results
 The analysis highlights how COVID-19 cases evolved over time and helps understand recovery and mortality trends through visual insights.
